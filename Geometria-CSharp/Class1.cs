@@ -8,6 +8,6 @@ namespace Geometria_CSharp
 {
     internal class Rettangolo
     {
-
+        
     }
 }
